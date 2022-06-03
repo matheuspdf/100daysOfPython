@@ -1,10 +1,13 @@
-Trabalhando com variáveis em Python para gerenciar dados.
-Projeto: Gerador de nome de banda.
+<h1>100daysOfPython_001</h1>
+<h3>Projeto: Gerador de nome de banda.<br>
+Trabalhando com variáveis em Python para gerenciar dados.</h3>
+
+
 
 Assuntos abordados:
-
-variaveis
-Concatenação
-função print
-função input
-
+<ul>
+  <li>Variaveis</li>
+  <li>Concatenação</li>
+  <li>função print()</li>
+  <li>função input()</li>
+</ul>
